@@ -1,0 +1,11 @@
+[
+    
+    {"id" : "USA",  "value" : 8}, 
+    {"id" : "GER",  "value" : 15}, 
+    {"id" : "FRA",  "value" : 20},
+    {"id" : "UK",  "value" : 22},
+    {"id" : "SPA",  "value" : 2},
+    {"id" : "POR",  "value" : 30},
+    {"id" : "BEL",  "value" : 12}
+
+]
